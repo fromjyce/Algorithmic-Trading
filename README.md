@@ -17,4 +17,4 @@ All the programs in this repository are licensed under the MIT License. You can 
 ### [LINKEDIN - Raahul R](https://www.linkedin.com/in/raahul-r-536715258/)
 ### [LINKEDIN - Roahith R](https://www.linkedin.com/in/roahith-r-5b1728258/)
 ### [LINKEDIN - Shanmathi Ganesan](https://www.linkedin.com/in/shanmathi-ganesan-7376a01b5/)
-### [LINKEDIN - Adithya A)[https://www.linkedin.com/in/adithya-a-undefined-18aab4258/)
+### [LINKEDIN - Adithya A](https://www.linkedin.com/in/adithya-a-undefined-18aab4258/)
